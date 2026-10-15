@@ -10,9 +10,9 @@ authors:
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
 doi: "10.5281/zenodo.23186665"
-repository-code: "https://github.com/massimosbarbaro/music-library-catalogue-access"
+repository-code: "https://github.com/massimosbarbaro/music-library-catalogue-db"
 keywords:
-  - "Microsoft Access"
+  - "db"
   - "music library"
   - "sheet music"
   - "catalogue"

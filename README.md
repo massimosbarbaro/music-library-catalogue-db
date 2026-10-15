@@ -23,13 +23,13 @@ Single table `biblioteca`.
 
 ## Technology
 
-Microsoft Access 2010+ format (.accdb).
+db, 2010+ format (.accdb).
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `database/` | The Access application, emptied of all data. |
+| `database/` | The database application, emptied of all data. |
 | `source/` | Plain-text export (UTF-8) of forms, reports, macros, VBA modules (`SaveAsText`) and of the SQL of every query. |
 | `docs/schema.md` | Tables and fields. |
 
@@ -39,8 +39,8 @@ The database is published **empty**: every table has been emptied and the file c
 
 ## Related repositories
 
-- [sheet-music-editions-inventory-access](https://github.com/massimosbarbaro/sheet-music-editions-inventory-access)
-- [sound-music-archive-catalogue-access](https://github.com/massimosbarbaro/sound-music-archive-catalogue-access)
+- [sheet-music-editions-inventory-db](https://github.com/massimosbarbaro/sheet-music-editions-inventory-db)
+- [sound-music-archive-catalogue-db](https://github.com/massimosbarbaro/sound-music-archive-catalogue-db)
 
 ## How to cite
 
